@@ -2,6 +2,8 @@
 
 A toy database implementation for Urbit.
 
+**Status:  Some document search logic (for JSON and XML) has not been completed.  The basic app functionality as a database works.**
+
 - Demonstrates a key-value store for a document database.
 - Supports batch operations as pokes.
 - Demonstrates a "conventional" agent structure and an operationally-equivalent "nested core" agent.
